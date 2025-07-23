@@ -63,8 +63,7 @@ venv.bak/
 .vscode/
 
 # Data files (don't commit large datasets)
-data/
-*.csv
+
 
 # Generated output
 plots/
